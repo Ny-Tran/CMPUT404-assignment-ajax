@@ -25,12 +25,12 @@ References
     * Date Accessed: March.11.2021
     * Answer from stackoverflow user: Torben
 
-3. POST to a url and setting content-type
+3. POST to a url and setting content-type:
     * https://stackoverflow.com/a/37654822
     * Date Accessed: March.11.2021
     * Answer from stackoverflow user: Vladu Ionut
 
-4. Learning how to utilize canvas 
+4. Learning how to utilize canvas:
     * https://www.w3schools.com/html/html5_canvas.asp
     * Date Accessed: March.11.2021
     
